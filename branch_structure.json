@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-26-dashboard-issuancechart-is-hand-rolled-svg-with",
+    "fix/issue-27-use-dummy-data-is-a-runtime-flag-dummy-data",
+    "fix/issue-29-certificatewallet-shows-issuer-owned-action",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-26-dashboard-issuancechart-is-hand-rolled-svg-with": "main",
+    "fix/issue-27-use-dummy-data-is-a-runtime-flag-dummy-data": "main",
+    "fix/issue-29-certificatewallet-shows-issuer-owned-action": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-26-dashboard-issuancechart-is-hand-rolled-svg-with",
+    "fix/issue-27-use-dummy-data-is-a-runtime-flag-dummy-data",
+    "fix/issue-29-certificatewallet-shows-issuer-owned-action",
+    "origin"
+  ]
+}
